@@ -1,0 +1,39 @@
+Copyright © rita-whatever, 2025
+
+本项目为非商业学习用途创建，灵感来源并基于开源项目：https://github.com/liyupi/daxigua（by @liyupi）
+
+LICENSE TERMS:
+
+1. 本网页仅用于前端开发与程序设计的学习与研究目的，不构成商业发布或盈利活动。
+
+2. 网页中所使用的图像、音频等媒体素材版权归原作者所有，如需使用请向原作者申请授权。如果您是原作者并希望我删除您的作品，请通过 GitHub Issues 或电子邮件联系本人，我将第一时间配合处理。
+
+3. 本项目禁止以下行为，除非获得本人书面授权：
+   - 商业用途（包括但不限于直接营利、通过二次发布变现等方式）
+   - 二次修改后用于公开发布
+   - 擅自移除本声明
+
+4. 如原版权所有人认为本项目存在侵权内容，请通过 GitHub Issues 或电子邮件联系本人，我将第一时间配合处理并删除相关内容。
+
+5. 本项目的源代码遵循 MIT License 发布（不包括媒体文件和外部引用内容）。原始项目版权归属 @liyupi 和其原始 LICENSE 保留。
+
+---
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, **subject to the following conditions**:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+**THE SOFTWARE IS PROVIDED “AS IS”**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
